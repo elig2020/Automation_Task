@@ -1,0 +1,16 @@
+{
+    "login_data":{
+        "email": "elyasaf2017@gmail.com",
+        "password": "123456"
+    },
+    "url_data":{
+        "url_1": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GENAFPTNLHV7ZACW",
+        "url_2": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GBPEXEXYULHB5WCH",
+        "amazon": "https://amazon.com",
+        "product_path": "https://www.amazon.com/Scissors-iBayam-Crafting-Scrapbooking-Knitting/dp/B07H3QKN2Z"
+    },
+    "product_data":{
+        "product": "EPS4-BLUE"
+    }
+    
+}

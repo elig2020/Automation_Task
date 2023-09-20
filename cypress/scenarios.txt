@@ -1,0 +1,4 @@
+Track Your Package page - scenarios
+
+1. Verified text element is correct in 3 places
+2. Verified elements visibility in 3 places
